@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
+
 <h2 align="center">A passionate computer engineer from Turkey</h2</br>
   
-  <p align="center" font-size="10px">
+  <p align="center" font-size="4px">
 
 - 🌱 I’m currently learning **Asp.Net Core MVC,Asp.Net Web Api and React,React-Native**
 
