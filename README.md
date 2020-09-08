@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **dogukanergezer@gmail.com**
 
-##Connect with me:
+
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://twitter.com/dogukanergezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dogukanergezer" height="30" width="30" /></a>
@@ -18,7 +19,7 @@
 <a href="https://medium.com/@dogukannergezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dogukannergezer" height="30" width="30" /></a>
 </p>
 
-##Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> <img 
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img 
