@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 
 <h2 align="center">A passionate computer engineer from Turkey</h2</br>
-  
-  <p align="center" font-size=0.5px;>
 
 - 🌱 I’m currently learning **Asp.Net Core MVC,Asp.Net Web Api and React,React-Native**
 
@@ -11,7 +9,6 @@
 - 💬 Ask me about **Asp.Net Core MVC,Asp.Net Web Api, React ,Node.js,**
 
 - 📫 How to reach me **dogukanergezer@gmail.com**
-</p>
 
 <h3 align="center">Connect with me:</h3>
 
