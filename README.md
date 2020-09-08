@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate computer engineer from Turkey</h2</br>
   
-  <p align="center" font-size="1px">
+  <p align="center" font-size="1em">
 
 - 🌱 I’m currently learning **Asp.Net Core MVC,Asp.Net Web Api and React,React-Native**
 
