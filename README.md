@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Doğukan</h1></br>
-<h3 align="center">A passionate computer engineer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Doğukan</h1>
+<h3 align="center">A passionate computer engineer from Turkey</h3</br>
 
 - 🌱 I’m currently learning **Asp.Net Core MVC,Asp.Net Web Api and React,React-Native**
 
