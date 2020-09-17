@@ -2,7 +2,7 @@
 <h4 align="left">A passionate computer engineer from Turkey</h4>
 <div align="left">
   
-- 🌱 I’m currently learning **Asp.Net Core and React-Native**
+- 🌱 I’m currently learning **Asp.Net Core**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
