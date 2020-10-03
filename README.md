@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
-<h4 align="left">A passionate computer engineer from Turkey</h4></br>
-<div align="left">
-  
+<h4 align="left">A passionate computer engineer from Turkey</h4>
+
+<div align="left"> 
 🌱 I’m currently learning **.Net Core**
 
 👯 I’m looking to collaborate with **other content creators**
