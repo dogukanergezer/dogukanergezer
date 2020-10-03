@@ -2,13 +2,13 @@
 <h4 align="left">A passionate computer engineer from Turkey</h4>
 <div align="left">
   
-- 🌱 I’m currently learning **.Net Core**
+🌱 I’m currently learning **.Net Core**
 
-- 👯 I’m looking to collaborate with **other content creators**
+👯 I’m looking to collaborate with **other content creators**
 
-- 💬 Ask me about **Anything**
+💬 Ask me about **Anything**
 
-- 📫 How to reach me **dogukanergezer@gmail.com**
+ 📫 How to reach me **dogukanergezer@gmail.com**
 
 </div>
 <h4 align="left">Connect with me:</h4>
