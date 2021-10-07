@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My name is Doğukan Ergezer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi there!;My name is Doğukan Ergezer)](https://git.io/typing-svg)
 
 <h4 align="left">A passionate computer engineer from Turkey</h4>
 
