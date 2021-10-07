@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋</h3>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 <h4 align="left">A passionate computer engineer from Turkey</h4>
 
 <div align="left"> 
