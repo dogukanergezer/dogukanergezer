@@ -1,17 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋;My+name+is+Doğukan+Ergezer.;Nice+to+meet+you.)](https://git.io/typing-svg)
-<h4 align="left">A passionate computer engineer from Turkey</h4>
 
-<div align="left"> 
- 
-👯 I’m looking to collaborate with **other content creators**
-
-💬 Ask me about **Anything**
-
- 📫 How to reach me **dogukanergezer@gmail.com**
-</div>
 <h4 align="left">Connect with me:</h4>
-
 <p align="left">
 <a href="https://twitter.com/dogukanergezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dogukanergezer" height="30" width="30" /></a>
 <a href= "https://www.linkedin.com/in/doğukan-ergezer-433a07171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dogukanergezer" height="30" width="30" /></a>
